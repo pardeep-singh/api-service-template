@@ -32,7 +32,7 @@ lein uberjar
 ```
 and then run the following command to start the API server
 ```
-java -jar target/restro-search-engine-0.1.0-SNAPSHOT-standalone.jar
+java -jar java -jar target/api-service-template-0.1.0-standalone.jar
 ```
 Use the curl command mentioned above to verify.
 
