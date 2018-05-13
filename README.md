@@ -41,4 +41,5 @@ Use the curl command mentioned above to verify.
 lein test :all
 ....
 Ran 3 tests containing 5 assertions.
-0 failures, 0 errors.```
+0 failures, 0 errors.
+```
