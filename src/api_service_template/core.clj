@@ -1,4 +1,5 @@
 (ns api-service-template.core
+  (:gen-class)
   (:require [clojure.tools.logging :as ctl]
             [compojure.core :as cc :refer [context defroutes POST GET PUT DELETE]]
             [compojure.route :as route]
